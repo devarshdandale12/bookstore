@@ -1,0 +1,5 @@
+spring.datasource.username=root
+spring.datasource.password=your_mysql_password
+app.jwt.secret=your_base64_secret_at_least_32_bytes
+app.admin.password=choose_an_admin_password
+app.admin.registration-code=choose_an_admin_code
